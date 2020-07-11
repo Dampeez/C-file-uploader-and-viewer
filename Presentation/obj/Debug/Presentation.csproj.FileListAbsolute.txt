@@ -1,0 +1,11 @@
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\bin\Debug\Presentation.exe
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\bin\Debug\Presentation.pdb
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\bin\Debug\DataLink.dll
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\bin\Debug\DataLink.pdb
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\obj\Debug\Presentation.exe
+C:\Users\damia\Desktop\moe test\201571550-GradedSolution\Presentation\obj\Debug\Presentation.pdb
